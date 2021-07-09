@@ -3,7 +3,7 @@
 
 #### [Parte 1 - Introduccion](https://github.com/MarcooLopez/Python-basics/blob/main/minicurso-analise_de_dados-01-intro.ipynb)
 - Ciencia de Datos
-- Instalacion de Ambiente
+- Instalacion de Ambientes
 - Jupyter Notebooks
 
 #### [Parte 2 - Python Básico](https://github.com/MarcooLopez/Python-basics/blob/main/minicurso-analise_de_dados-02-python_basico.ipynb)
@@ -23,4 +23,4 @@
 - Introduccion al Aprendizaje de Máquina usando Python
 
 #### [Parte 6 - Conclusiones](https://github.com/MarcooLopez/Python-basics/blob/main/minicurso-analise_de_dados-06-conclusoes.ipynb)
-- Conclusiones e Pasos Futuros
+- Conclusiones y Pasos Futuros
