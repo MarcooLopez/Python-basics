@@ -1,9 +1,9 @@
 
-# Minicurso de Análise de Dados usando Python
+# Minicurso de Analisis de Datos usando Python
 
-#### [Parte 1 - Introdução](https://github.com/regispires/jupyter-notebooks/blob/master/minicurso-analise_de_dados-01-intro.ipynb)
-- Ciência de Dados
-- Instalação do Ambiente
+#### [Parte 1 - Introduccion](https://github.com/regispires/jupyter-notebooks/blob/master/minicurso-analise_de_dados-01-intro.ipynb)
+- Ciencia de Datos
+- Instalacion de Ambiente
 - Jupyter Notebooks
 
 #### [Parte 2 - Python Básico](https://github.com/regispires/jupyter-notebooks/blob/master/minicurso-analise_de_dados-02-python_basico.ipynb)
@@ -13,14 +13,14 @@
 - [Matplotlib](https://github.com/regispires/jupyter-notebooks/blob/master/minicurso-analise_de_dados-03.2-bibliotecas-manipulacao_de_dados-matplotlib.ipynb)
 - [Pandas](https://github.com/regispires/jupyter-notebooks/blob/master/minicurso-analise_de_dados-03.3-bibliotecas-manipulacao_de_dados-pandas.ipynb)
 
-#### [Parte 4 - Análise de Dados](https://github.com/regispires/jupyter-notebooks/blob/master/minicurso-analise_de_dados-04-analise_de_dados.ipynb)
-- Obtenção de Dados
-- Análise Exploratória de Dados
-- Manipulação e Limpeza de Dados
-- Visualização de Dados
+#### [Parte 4 - Análisis de Datos](https://github.com/regispires/jupyter-notebooks/blob/master/minicurso-analise_de_dados-04-analise_de_dados.ipynb)
+- Obtencion de Datos
+- Análisis Exploratório de Datos
+- Manipulacion y Limpeza de Datos
+- Visualizacion de Datos
 
-#### [Parte 5 - Aprendizado de Máquina](https://github.com/regispires/jupyter-notebooks/blob/master/minicurso-analise_de_dados-05-aprendizagem_maquina.ipynb)
-- Introdução ao Aprendizado de Máquina usando Python
+#### [Parte 5 - Aprendizaje de Máquina](https://github.com/regispires/jupyter-notebooks/blob/master/minicurso-analise_de_dados-05-aprendizagem_maquina.ipynb)
+- Introduccion al Aprendizaje de Máquina usando Python
 
-#### [Parte 6 - Conclusão](https://github.com/regispires/jupyter-notebooks/blob/master/minicurso-analise_de_dados-06-conclusoes.ipynb)
-- Conclusões e Passos Futuros
+#### [Parte 6 - Conclusiones](https://github.com/regispires/jupyter-notebooks/blob/master/minicurso-analise_de_dados-06-conclusoes.ipynb)
+- Conclusiones e Pasos Futuros
