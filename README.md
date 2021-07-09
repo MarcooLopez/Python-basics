@@ -8,7 +8,7 @@
 
 #### [Parte 2 - Python Básico](https://github.com/MarcooLopez/Python-basics/blob/main/minicurso-analise_de_dados-02-python_basico.ipynb)
 
-#### Parte 3 - Bibliotecas Python para Manipulacion de Dados
+#### Parte 3 - Bibliotecas Python para Manipulacion de Datos
 - [Numpy](https://github.com/MarcooLopez/Python-basics/blob/main/minicurso-analise_de_dados-03.1-bibliotecas-manipulacao_de_dados-numpy.ipynb)
 - [Matplotlib](https://github.com/MarcooLopez/Python-basics/blob/main/minicurso-analise_de_dados-03.2-bibliotecas-manipulacao_de_dados-matplotlib.ipynb)
 - [Pandas](https://github.com/MarcooLopez/Python-basics/blob/main/minicurso-analise_de_dados-03.3-bibliotecas-manipulacao_de_dados-pandas.ipynb)
