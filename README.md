@@ -22,5 +22,3 @@
 #### [Parte 5 - Aprendizaje de Máquina](https://github.com/MarcooLopez/Python-basics/blob/main/minicurso-analise_de_dados-05-aprendizagem_maquina.ipynb) (20 min)
 - Introduccion al Aprendizaje de Máquina usando Python
 
-#### [Parte 6 - Conclusiones](https://github.com/MarcooLopez/Python-basics/blob/main/minicurso-analise_de_dados-06-conclusoes.ipynb)
-- Conclusiones y Pasos Futuros
