@@ -39,4 +39,4 @@ Explicar el conjunto de datos de entrenamiento, en lugar de encontrar patrones q
   <img src="https://github.com/MarcooLopez/Python-basics/blob/main/ajuste.png" width="450"/>
 </p>
 
-- [atras]("https://github.com/MarcooLopez/Python-basics/blob/main/README.md")
+- [atras](https://github.com/MarcooLopez/Python-basics/blob/main/README.md)
