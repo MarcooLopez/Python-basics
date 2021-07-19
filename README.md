@@ -1,7 +1,7 @@
 
 # Minicurso de Analisis de Datos usando Python
 
-#### [Parte 1 - Introduccion](https://github.com/MarcooLopez/Python-basics/blob/main/minicurso-analise_de_dados-01-intro.ipynb) (5 min)
+#### [Parte 1 - Introduccion](https://github.com/MarcooLopez/Python-basics/blob/main/minicurso-analisis_de_datos-01-intro.ipynb) (5 min)
 - Ciencia de Datos
 - Instalacion de Ambientes
 - Jupyter Notebooks
