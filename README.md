@@ -19,6 +19,6 @@
 - Manipulacion y Limpeza de Datos
 - Visualizacion de Datos
 
-#### [Parte 5 - Aprendizaje de Máquina](https://github.com/MarcooLopez/Python-basics/blob/main/minicurso-analise_de_dados-05-aprendizagem_maquina.ipynb) (20 min)
+#### [Parte 5 - Aprendizaje de Máquina](https://github.com/MarcooLopez/Python-basics/blob/main/minicurso-analisis_de_datos-05-aprendizaje_automatico.ipynb) (20 min)
 - Introduccion al Aprendizaje de Máquina usando Python
 
